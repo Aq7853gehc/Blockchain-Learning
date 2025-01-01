@@ -80,23 +80,10 @@
 				"type": "function"
 			},
 			{
-				"inputs": [],
-				"name": "sayHello",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "",
-						"type": "string"
-					}
-				],
-				"stateMutability": "pure",
-				"type": "function"
-			},
-			{
 				"inputs": [
 					{
 						"internalType": "uint256",
-						"name": "_favNum",
+						"name": "_newFavNumber",
 						"type": "uint256"
 					}
 				],
@@ -134,19 +121,19 @@
 	},
 	"sources": {
 		"contracts/AddFiveStorage.sol": {
-			"keccak256": "0xf378e699c5eb316d17d3c4794e49c0036c6c6ed73bc3a6fc51f18659acc587f7",
+			"keccak256": "0x1d06c9aef6ba7d44f6cb69bf3c853abffcde9dca86252a91fa92c5a00e5679ad",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://3bb0580880c260db9b52576ddc5946a47dfd7640d80047360f8cc18ae4769beb",
-				"dweb:/ipfs/QmVconfZXn9g3E2s4eVyFkJBSBmRS6hSC82WuntVjrzwNX"
+				"bzz-raw://489a8f4f0193892f91a58e997c2cfa6287cdc3ffc12a18e5e42952a9866f9ee2",
+				"dweb:/ipfs/QmeLTnSVryG1wPfmvkRQXDq914rxBz3dGiskSk4xdgxKKP"
 			]
 		},
 		"contracts/SimpleStorage.sol": {
-			"keccak256": "0xfb5b1da4e49c207550c5c7819d37f9eb7fc88fda7e1062ac60f5fdf2c28f49ec",
+			"keccak256": "0x98c98ac9e099ce271cee1ceb395c93d70dd48c5cb7d4e9dce136c37b1f516663",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://ac1b34c230b70ce498344cd35bde9067b68e3e80d905b578dff0eb8d3a6b2706",
-				"dweb:/ipfs/QmeHwsaMfxwnUDa5UXcsF5kFZY1QFEykfcBQZRWYFXSNHR"
+				"bzz-raw://76a0ef9d536dacaa1750f112afa9ebbf426421657201bbaaba0a2020b021c433",
+				"dweb:/ipfs/QmZQi4XarwE8jYicfBsn5WkKpGRFkcD62B91A1VRBSXEEm"
 			]
 		}
 	},
